@@ -7,3 +7,5 @@ Certifications I have received
 [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/certificate/SZQ2RFELM77N)
 
 [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/certificate/W8P68ZVHDL2Z)
+
+[Prepare Data for Exploration](https://www.coursera.org/account/accomplishments/certificate/VCEZSPSLCXRR)
