@@ -9,3 +9,5 @@ Certifications I have received
 [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/certificate/W8P68ZVHDL2Z)
 
 [Prepare Data for Exploration](https://www.coursera.org/account/accomplishments/certificate/VCEZSPSLCXRR)
+
+[Process Data from Dirty to Clean](https://www.coursera.org/account/accomplishments/certificate/9DSEFZ3L7MU6)
