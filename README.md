@@ -11,3 +11,5 @@ Certifications I have received
 [Prepare Data for Exploration](https://www.coursera.org/account/accomplishments/certificate/VCEZSPSLCXRR)
 
 [Process Data from Dirty to Clean](https://www.coursera.org/account/accomplishments/certificate/9DSEFZ3L7MU6)
+
+[Analyze Data to Answer Questions](https://www.coursera.org/account/accomplishments/certificate/KM9Q89MKB9X6)
