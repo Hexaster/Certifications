@@ -13,3 +13,5 @@ Certifications I have received
 [Process Data from Dirty to Clean](https://www.coursera.org/account/accomplishments/certificate/9DSEFZ3L7MU6)
 
 [Analyze Data to Answer Questions](https://www.coursera.org/account/accomplishments/certificate/KM9Q89MKB9X6)
+
+[Share Data Through the Art of Visualization](https://www.coursera.org/account/accomplishments/certificate/5FU9V5WVHTC5)
